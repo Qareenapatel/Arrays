@@ -44,12 +44,12 @@ public class Twodimensionalarray {
 		
 		// for each loop
 
-		for (int i[] : a) {
+		/*for (int i[] : a) {
 			for (int j : i) {
 				System.out.print(j + " ");
 			}
 			System.out.println();
-		}
+		}*/
 	}
 }
 
